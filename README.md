@@ -6,3 +6,5 @@ The chunks would be:
 [2, 5, 4] -> min: 2 <br />
 [5, 4, 6] -> min: 4 <br />
 [4, 6, 8] -> min: 4 <br />
+
+The maximum of these is 4.
